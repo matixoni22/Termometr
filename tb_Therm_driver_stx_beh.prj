@@ -1,0 +1,2 @@
+vhdl isim_temp "Thermo_driver.vhd"
+vhdl isim_temp "tb_Therm_driver.vhd"

@@ -1,0 +1,21 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "G:/Projekty/VSLI/PUL/Termometr/tb_Therm_driver_isim_beh.exe" -prj "G:/Projekty/VSLI/PUL/Termometr/tb_Therm_driver_beh.prj" "work.tb_Therm_driver" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "G:/Projekty/VSLI/PUL/Termometr/Thermo_driver.vhd" into library work
+Parsing VHDL file "G:/Projekty/VSLI/PUL/Termometr/tb_Therm_driver.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture a_thermo_driver of entity Thermo_driver [thermo_driver_default]
+Compiling architecture behavior of entity tb_therm_driver
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
+Built simulation executable G:/Projekty/VSLI/PUL/Termometr/tb_Therm_driver_isim_beh.exe
+Fuse Memory Usage: 34164 KB
+Fuse CPU Usage: 436 ms

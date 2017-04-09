@@ -1,0 +1,29 @@
+Command line:
+   Thermo_driver_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50508
+
+Sat Apr 08 16:01:00 2017
+
+
+ Elaboration Time: 0.296402 sec
+
+ Current Memory Usage: 1314.16 Meg
+
+ Total Signals          : 7
+ Total Nets             : 42
+ Total Signal Drivers   : 5
+ Total Blocks           : 4
+ Total Primitive Blocks : 4
+ Total Processes        : 3
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 420
+Total Line Count : 10
+
+ Total Simulation Time: 0.312002 sec
+
+ Current Memory Usage: 1314.16 Meg
+
+Sat Apr 08 16:01:03 2017
+

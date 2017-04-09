@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "G:/Projekty/VSLI/PUL/Termometr/tb_Therm_driver_isim_beh.exe" -prj "G:/Projekty/VSLI/PUL/Termometr/tb_Therm_driver_beh.prj" "work.tb_Therm_driver" 
